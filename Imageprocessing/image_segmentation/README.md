@@ -4,6 +4,7 @@ This project aims to extract edges in the 2D images with noise. The edge extract
 <br>
 <h3>The images used as input:</h3>
 <br>
+![](./results/img1.png =400x400)
 <br><img align="center" width="400" height="400" src="./results/img1.png"><br>
 <br><img align="center" width="400" height="400" src="./results/img2.png"><br>
 <br>
