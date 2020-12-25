@@ -5,9 +5,9 @@ In this project, a image segmentation algorithm that segments region of interest
 
 <h3>The images used as input:</h3>
 <br>
-<br><img align="center" width="400" height="400" src="./results/flower.png"><br>
-<br><img align="center" width="400" height="400" src="./results/statue.png"><br>
+<br><img width="400" height="400" src="./results/flower.png"><br>
+<br><img width="400" height="400" src="./results/statue.png"><br>
 <br>
 <h3>Results:</h3>
-<br><img align="center" width="400" height="400" src="./results/flower_result.png"><br>
-<br><img align="center" width="400" height="400" src="./results/statue_result.png"><br>
+<br><img width="400" height="400" src="./results/flower_result.png"><br>
+<br><img width="400" height="400" src="./results/statue_result.png"><br>
