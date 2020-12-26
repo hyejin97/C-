@@ -4,9 +4,10 @@ This project aims to extract edges in the 2D images with noise. The edge extract
 <br>
 <h3>The images used as input:</h3>
 <br>
-<br><img width="400" height="400" src="https://github.com/hyejin97/CPP/blob/main/Imageprocessing/image_segmentation/results/flower.png">  
-<img  width="400" height="400" src="https://github.com/hyejin97/CPP/blob/main/Imageprocessing/image_segmentation/results/statue.png"><br>
+<br><img width="400" height="400" src="./results/img1.png">  
+<img  width="400" height="400" src="./results/img2.png"><br>
 <br>
 <h3>Results:</h3>
-<br><img width="400" height="400" src="https://github.com/hyejin97/CPP/blob/main/Imageprocessing/image_segmentation/results/flower_result.png">
-<img width="400" height="400" src="https://github.com/hyejin97/CPP/blob/main/Imageprocessing/image_segmentation/results/statue_result.png"><br>
+<br>
+<br><img width="400" height="400" src="./results/img1_result.png">
+<img width="400" height="400" src="./results/img2_result.png">
